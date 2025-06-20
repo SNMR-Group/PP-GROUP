@@ -125,7 +125,9 @@
 						<div class="col-lg-5">
 							<div class="intro-excerpt">
 								<h1>PP GROUP <span clsas="d-block">Your Partner</span></h1>
-								<p class="mb-4">PP-Group is committed to delivering excellence across all the industries we serve. PP-Group is your comprehensive partner in transforming ideas into reality</p>
+								<p class="mb-4">PP-Group is committed to delivering excellence across all the industries we serve. PP-Group is your comprehensive partner in transforming ideas into reality<br>
+								I am testing this website for  working with different branches by all developers and then will merge in master branch.
+							</p>
 								 <p><a href="contact" class="btn btn-secondary me-2">Shop Now</a> <a href="about" class="btn btn-white-outline">Explore</a> </p>
 							</div>
 						</div>
